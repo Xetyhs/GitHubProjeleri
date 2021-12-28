@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40235211-afb3-421d-94ee-bb71c56af1d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ders2.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp101Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp101Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/CSharp101Projects.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640718292888</updated>
       <workItem from="1640718306723" duration="1440000" />
+      <workItem from="1640721860505" duration="1956000" />
     </task>
     <servers />
   </component>
@@ -63,7 +73,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
