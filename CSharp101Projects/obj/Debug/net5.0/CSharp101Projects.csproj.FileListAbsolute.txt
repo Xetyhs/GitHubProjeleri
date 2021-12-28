@@ -1,0 +1,16 @@
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.exe
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.deps.json
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.runtimeconfig.json
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.runtimeconfig.dev.json
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.dll
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\ref\CSharp101Projects.dll
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\bin\Debug\net5.0\CSharp101Projects.pdb
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.csproj.AssemblyReference.cache
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.AssemblyInfoInputs.cache
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.AssemblyInfo.cs
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.csproj.CoreCompileInputs.cache
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.dll
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\ref\CSharp101Projects.dll
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.pdb
+C:\Users\yigal\OneDrive\Belgeler\Patika Dev\C#101\GitHubProjeleri\CSharp101Projects\obj\Debug\net5.0\CSharp101Projects.genruntimeconfig.cache
