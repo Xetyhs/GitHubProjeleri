@@ -4,7 +4,18 @@
     <projectFile>CSharp101Projects.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40235211-afb3-421d-94ee-bb71c56af1d9" name="Changes" comment="" />
+    <list default="true" id="40235211-afb3-421d-94ee-bb71c56af1d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ders3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharp101Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharp101Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ders2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ders2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/CSharp101Projects.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/CSharp101Projects.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/CSharp101Projects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/CSharp101Projects.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1640718292888</updated>
       <workItem from="1640718306723" duration="1440000" />
-      <workItem from="1640721860505" duration="2113000" />
+      <workItem from="1640721860505" duration="2295000" />
+      <workItem from="1640728784599" duration="1728000" />
     </task>
     <servers />
   </component>

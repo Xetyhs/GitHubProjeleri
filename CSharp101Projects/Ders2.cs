@@ -4,6 +4,8 @@ namespace CSharp101Projects
 {
     public class Ders2
     {
+        
+        /*
         public static void Main(string[] args)
         {
             Console.WriteLine("Byte type has size of --> " + sizeof(byte));
@@ -37,6 +39,6 @@ namespace CSharp101Projects
 
             DateTime dateTime = DateTime.Now;
             Console.WriteLine(dateTime);
-        }
+        }*/
     }
 }
