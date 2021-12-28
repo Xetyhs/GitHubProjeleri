@@ -1,0 +1,21 @@
+Kullanıcı Girişi Yapın
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+2 Girin (stok işlemi çıktısı)
+2 Girin
+3 Girin (Category)
+3 Girin (Tip olarak bot)
+2 Girin
+2 Girin (stok işlemi çıktısı)
+1 Girin
+2 Girin 
+3 Girin (Category)
+3 Girin (Tip olarak bot)
+0 Girin
