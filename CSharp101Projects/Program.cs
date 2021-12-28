@@ -6,9 +6,13 @@ namespace CSharp101Projects
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C#101 Eğitimi Başlasın");
-            string input = Console.ReadLine();
-            Console.WriteLine(input);
+            Console.WriteLine("Hello World!");
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            Console.Write("Enter your surname: ");
+            string surname = Console.ReadLine();
+            Console.WriteLine("Welcome to C#101 Course " + name + " " + surname);
+
         }
     }
 }
