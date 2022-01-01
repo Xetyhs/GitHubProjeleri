@@ -4,7 +4,7 @@ namespace CSharp101Projects
 {
     public class Ders4
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             // Implicit Conversion (Bilinçsiz Çevirme)
             byte a = 5;
@@ -81,6 +81,6 @@ namespace CSharp101Projects
             
             Console.WriteLine("rakam1: " + rakam1);
             Console.WriteLine("double1: " + double1);
-        }
+        }*/
     }
 }
