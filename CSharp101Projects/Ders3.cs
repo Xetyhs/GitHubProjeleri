@@ -4,7 +4,7 @@ namespace CSharp101Projects
 {
     public class Ders3
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             Console.WriteLine("------ ATAMA VE İŞLEMLİ ATAMA -------------");
 
@@ -57,6 +57,6 @@ namespace CSharp101Projects
             Console.WriteLine("a != b is " + result);
 
 
-        }
+        }*/
     }
 }
