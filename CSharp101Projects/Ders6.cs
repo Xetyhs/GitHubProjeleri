@@ -6,6 +6,7 @@ namespace CSharp101Projects
     // ÇALIŞTIRMAK İÇİN YORUM SATIRINI KALDIRABİLİRSİNİZ.
     public class Ders6
     {
+        /*
         public static void Main(string[] args)
         {
             int time = DateTime.Now.Hour;
@@ -22,6 +23,6 @@ namespace CSharp101Projects
             result = time >= 6 && time < 11 ? "Good Morning!" : time <= 18 ? "Have a good day!" : "Good Night";
             Console.WriteLine(result);
 
-        }
+        }*/
     }
 }
