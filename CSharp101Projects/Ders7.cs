@@ -49,12 +49,12 @@ namespace CSharp101Projects
                 case 8:
                     Console.WriteLine("Yaz");
                     break;
-                default:
-                    break;
                 case 9:
                 case 10:
                 case 11:
                     Console.WriteLine("Sonbahar");
+                    break;
+                default:
                     break;
 
             }
