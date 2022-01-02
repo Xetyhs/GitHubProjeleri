@@ -4,8 +4,10 @@ namespace CSharp101Projects
 {
     public class Ders5
     {
-        public static void Main(string[] args)
-        {
+        
+        
+        //public static void Main(string[] args)
+        //{
             /*
             try
             {
@@ -23,7 +25,7 @@ namespace CSharp101Projects
                 Console.WriteLine("Parselama, Input alma, Yazdırma; başarıyla tamamlandı.");
             }*/
 
-
+/*
             try
             {
                 // Argument Null Exception
@@ -56,6 +58,6 @@ namespace CSharp101Projects
             {
                 Console.WriteLine("İşlem tamamlandı.");
             }
-        }
+        }*/
     }
 }
